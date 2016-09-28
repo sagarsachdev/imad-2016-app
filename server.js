@@ -9,7 +9,15 @@ var articleOne = {
 title : 'Article One | Sagar Sachdev',
 heading : 'Article One',
 date : 'sept 28 , 2016',
-content : 
+content : `<p>
+                This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.
+            </p>
+            <p>
+                This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.
+            </p>
+            <p>
+                This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.
+            </p>`
 };
 
 var htmlTemplate = `
