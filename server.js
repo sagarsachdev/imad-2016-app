@@ -21,32 +21,18 @@ var articles = {
             </p>`
     },
     articleTwo : {
-            title : 'Article One | Sagar Sachdev',
-            heading : 'Article One',
+            title : 'Article Two | Sagar Sachdev',
+            heading : 'Article Two',
             date : 'sept 28 , 2016',
             content : `<p>
-                This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.
-            </p>
-            <p>
-                This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.
-            </p>
-            <p>
-                This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.
-            </p>`
+                This is content for my second article.`
     },
     articleThree : {
-        title : 'Article One | Sagar Sachdev',
-        heading : 'Article One',
+        title : 'Article Three | Sagar Sachdev',
+        heading : 'Article Three',
         date : 'sept 28 , 2016',
         content : `<p>
-                This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.
-            </p>
-            <p>
-                This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.
-            </p>
-            <p>
-                This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.This is content for my first article.
-            </p>`
+                This is content for my third article.`
     }
 }
 function createTemplate(data){
